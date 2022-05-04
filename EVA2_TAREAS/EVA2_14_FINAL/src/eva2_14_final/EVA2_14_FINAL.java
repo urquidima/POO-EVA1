@@ -7,7 +7,7 @@ package eva2_14_final;
 
 /**
  *
- * @author danyb
+ * @author alox1
  */
 public class EVA2_14_FINAL {
 
